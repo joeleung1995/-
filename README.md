@@ -1,0 +1,10 @@
+# -
+基于H5 FileReader和dragover，drop事件的拖拽上传demo
+### 难点：  
+1 解决dragover和drop事件的冲突；通过取消dragover的默认事件  
+2 需要对大文件上传，进行切分上传；  
+3 将上传部分提取出来做成一个模块；  
+### 收获：  
+1 熟悉了H5下FileReader和dragover，drop事；  
+2 清楚了dragover和drop事件的冲突的解决方法；  
+3 收获一个模块。
